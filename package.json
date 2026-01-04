@@ -20,12 +20,12 @@
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^5.2.1",
     "express-async-handler": "^1.1.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.1.1",
     "morgan": "^1.10.0",
-    "multer": "^1.4.4"
+    "multer": "^2.0.2"
   },
   "devDependencies": {
     "concurrently": "^6.0.0",
